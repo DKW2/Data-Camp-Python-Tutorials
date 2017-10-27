@@ -5,3 +5,4 @@ Current list of functions:
 * Dictionaries
 * DataFrames
 * Matplotlib
+* Arrays
